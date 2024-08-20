@@ -1,0 +1,12 @@
+{
+  "name": "exercicios-backend-tipos-utilitarios-v3",
+  "version": "1.0.0",
+  "description": "1. Faça o fork deste repositório\r 2. Clone o repositório forkado\r 3. Abra-o no VS Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
